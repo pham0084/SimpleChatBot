@@ -1,24 +1,18 @@
-#Learning outcomes
-Get to know the basic syntax of JavaScript and write a simple program using variables, conditions, loops, and functions.
+# Welcome to Neilbo
+Neilbo is a simple chat bot written by JavaScript
 
 
-#Objective
-
-World Wide Web
-HyperText Transfer Protocol
-Web development
-Introduction to JavaScript
-Overview of the basic program
-Multi-line programs
-Stage implementation
-
-#Stage
-##Stage 1: Welcome to Neilbo.
-
-##Stage 2: Introduce yourself.
-##Stage 3: Guess the age
-##Stage 4: Learning numbers
-##Stage 5: Multiple choices
+# 5 Stage
+### Stage 1: Welcome to ' Neilbo '.
+Teach Neilbo to introduce itself in the console
+### Stage 2: Introduce yourself.
+Introduce yourself to the bot.
+### Stage 3: Guess the age.
+Use your knowledge of strings and numbers to make the Neilno guess your age.
+### Stage 4: Learning numbers.
+Neilbo is old enough to learn how to count. And you are experienced enough to apply for loop at this stage!
+### Stage 5: Multiple choices.
+At this stage, Neilbo will be able to check your knowledge and ask MCQ. 
 
 
 
